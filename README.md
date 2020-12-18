@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/anuditverma/anuditverma/blob/master/Anudit-Coffee.png" alt="Anudit's Avatar with a Coffee Mug"/>
 
-# Hi, I'm Anudit 👋
+# Hi, I'm Mohamad Dehghanni 👋
 
 - :octocat: I am a mechatronic engineer with a keen interest in autonomous vehicles. A C++ an avid open source enthusiast, contributor, and developer living in Long Beach, California, US. I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
 
