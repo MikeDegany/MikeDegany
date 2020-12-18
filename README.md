@@ -1,14 +1,14 @@
 <img align="right" src="https://github.com/anuditverma/anuditverma/blob/master/Anudit-Coffee.png" alt="Anudit's Avatar with a Coffee Mug"/>
 
-# Hi, I'm Mohamad Dehghanni 👋
+# Hi, I'm Mohammad Dehghanni 👋
 
-- :octocat: I am a mechatronic engineer with a keen interest in autonomous vehicles. A C++ an avid open source enthusiast, contributor, and developer living in Long Beach, California, US. I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
+- :octocat: I am a mechatronic engineer with a keen interest in autonomous vehicles.
 
 - :mortar_board: I am graduated in Mechatronics from Amirkabir University of Technology-Tehran Polytechnic.
 
-- :books: 
+- :computer: I love coding C++ for Robots and Autonomous Vehicles. 
 
-- :seedling: And, I am just grateful to have access to clean potable water.
+- :robot: I am a <a target="_blank" href="https://www.ros.org">ROS</a> developer.  
 
 - :mailbox_with_mail: You can reach me at <a target="_blank" href="mailto:m.dehghani94@live.com">m.dehghani94@live.com</a>
 
