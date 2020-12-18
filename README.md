@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="right" src="https://github.com/anuditverma/anuditverma/blob/master/Anudit-Coffee.png" alt="Anudit's Avatar with a Coffee Mug"/>
 
-<!--
-**Dehghanni/Dehghanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anudit 👋
 
-Here are some ideas to get you started:
+- :octocat: I am a mechatronic engineer with a keen interest in autonomous vehicles. A C++ an avid open source enthusiast, contributor, and developer living in Long Beach, California, US. I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: I am graduated in Mechatronics from Amirkabir University of Technology-Tehran Polytechnic.
+
+- :books: 
+
+- :seedling: And, I am just grateful to have access to clean potable water.
+
+- :mailbox_with_mail: You can reach me at <a target="_blank" href="mailto:m.dehghani94@live.com">m.dehghani94@live.com</a>
+
+- :rocket: Take a look at My linkedIn account <a target="_blank" href="https://www.linkedin.com/in/dehghanni">Dehghanni</a> to know more about me and my work. 
