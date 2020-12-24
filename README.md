@@ -12,4 +12,4 @@
 
 - :mailbox_with_mail: You can reach me at <a target="_blank" href="mailto:m.dehghani94@live.com">m.dehghani94@live.com</a>
 
-- :rocket: Take a look at My linkedIn account <a target="_blank" href="https://www.linkedin.com/in/dehghanni">Dehghanni</a> to know more about me and my work. 
+- :rocket: Take a look at my LinkedIn account <a target="_blank" href="https://www.linkedin.com/in/dehghanni">Dehghanni</a> to know more about me and my work. 
