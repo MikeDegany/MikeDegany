@@ -6,7 +6,7 @@
 
 - :mortar_board: I am graduated in Mechatronics from Amirkabir University of Technology-Tehran Polytechnic.
 
-- :computer: I love coding C++ for Robots and Autonomous Vehicles.
+- :computer: I love coding C++ for Robots and Autonomous Vehicles. 
 
 - :robot: I am a <a target="_blank" href="https://www.ros.org">ROS</a> developer.  
 
