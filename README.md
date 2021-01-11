@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Dehghanni/Dehghanni/blob/main/MohammadInAV-(Equipped).png" alt="Mohammad Dehghani and his autonomous car"/>
+<img align="right" src="https://github.com/Dehghanni/Dehghanni/blob/main/MohammadInAV(Equipped).png" alt="Mohammad Dehghani and his autonomous car"/>
 
 # Hi, I'm Mohammad Dehghanni in my yellow self-driving car 👋
 
