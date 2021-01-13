@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohammad Dehghanni in my yellow self-driving car 👋
 
-- :octocat: I am a mechatronic engineer with a keen interest in autonomous vehicles. 
+- :octocat: I am a mechatronic engineer with a keen interest in autonomous vehicles.
 
 - :mortar_board: I am graduated in Mechatronics from Amirkabir University of Technology-Tehran Polytechnic.
 
