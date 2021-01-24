@@ -12,4 +12,4 @@
 
 - :mailbox_with_mail: You can reach me at <a target="_blank" href="mailto:m.dehghani94@live.com">m.dehghani94@live.com</a>
 
-- :rocket: Take a look at my website <a target="_blank" href="https://5f63f171d61eb.site123.me">Dehghanni.github.io</a> to know more about me and my work. Follow me at LinkedIn (<a target="_blank" href="https://www.linkedin.com/in/dehghanni">@Dehghanni</a>) to stay connected. 
+- :rocket: Take a look at my website <a target="_blank" href="https://5f63f171d61eb.site123.me">Dehghanni.github.io</a> to know more about me and my work. Follow me at LinkedIn (<a target="_blank" href="https://www.linkedin.com/in/dehghanni">@Dehghanni</a>) to stay connected.
