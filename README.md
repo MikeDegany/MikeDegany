@@ -8,7 +8,7 @@
 
 - :computer: I love coding C++ for Robots and Autonomous Vehicles.
 
-- :robot: I am a <a target="_blank" href="https://www.ros.org">ROS</a> developer.
+- :robot: I am trying to be a <a target="_blank" href="https://www.ros.org">ROS</a> developer.
 
 - :mailbox_with_mail: You can reach me at <a target="_blank" href="mailto:m.dehghani94@live.com">m.dehghani94@live.com</a>
 
