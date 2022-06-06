@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/Dehghanni/Dehghanni/blob/main/MohammadInAV_(Equipped).png" alt="Mohammad Dehghani and his autonomous car"/>
 
-# Hi, I'm Mohammad Dehghanni in my yellow self-driving car 👋
+# Hi, I'm Mike Degany in my yellow self-driving car 👋
 
 - :octocat: I am a mechatronic engineer with a keen interest in autonomous vehicles and mobile robots.
 
