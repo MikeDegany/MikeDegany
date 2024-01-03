@@ -2,9 +2,9 @@
 
 # Hi, I'm Mike Degany in my yellow self-driving car 👋
 
-- :octocat: I am a mechatronic engineer with a keen interest in autonomous vehicles and mobile robots.
+- :octocat: I am a CS Ph.D. candidate and a mechatronic engineer with a keen interest in autonomous vehicles and mobile robots.
 
-- :mortar_board: I am graduated in Mechatronics from Amirkabir University of Technology-Tehran Polytechnic.
+- :mortar_board: I am PhD candidate in Computer Science at the University of North Texas and graduated in Mechatronics from Amirkabir University of Technology-Tehran Polytechnic.
 
 - :computer: I love coding C++ for Robots and Autonomous Vehicles.
 
