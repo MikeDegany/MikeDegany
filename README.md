@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/Dehghanni/Dehghanni/blob/main/MohammadInAV_(Equipped).png" alt="Mohammad Dehghani and his autonomous car"/>
+<img align="right" src="https://github.com/Dehghanni/Dehghanni/blob/main/MohammadInAV_(Equipped).png" alt="Mohammad Dehghani and his autonomous car"/> 
 
-# Hi, I'm Mike Degany in my yellow self-driving car 👋
+# Hi, I'm Mike Degany in my yellow self-driving car[^*] 👋
 
 - :octocat: I am a CS Ph.D. candidate and a mechatronic engineer with a keen interest in autonomous vehicles and mobile robots.
 
@@ -13,3 +13,5 @@
 - :rocket: Take a look at my personal webpage <a target="_blank" href="https://5f63f171d61eb.site123.me">MikeDegany.github.io</a> to know more about me and my work. Follow me at LinkedIn (<a target="_blank" href="https://www.linkedin.com/in/mikedegany">@MikeDegany</a>) to stay connected.
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikedegany/)
+
+[^*]: The sticker on the right is from 2020, back before ChatGPT existed and when things like this were so cool.
