@@ -1,6 +1,8 @@
 <!-- <img align="right" src="https://github.com/Dehghanni/Dehghanni/raw/main/MohammadInAV_(Equipped).png" width="280" alt="Mohammad Dehghani and his autonomous car"/> -->
 
 ## Hi, I'm Mike Degany 👋
+<a href="https://mikedegany.github.io/explore"><img align="right" src="./explore_cover.png" width="220" alt="Drive a robot through my portfolio (browser edition)"/></a>
+
 ### CS Ph.D. Candidate | Mechatronics Engineer
 
 :octocat: I am a Robotics engineer driven by the challenge of making machines move intelligently. Currently, I'm pursuing my Ph.D. in Computer Science at the **University of North Texas**, focusing on the intersection of robotics and autonomous systems.
